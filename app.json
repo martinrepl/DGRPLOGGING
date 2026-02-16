@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Pam Style Wellness",
+    "slug": "pam-style-wellness",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FFC7C6"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFC7C6"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
